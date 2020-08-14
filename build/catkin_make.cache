@@ -1,0 +1,2 @@
+wall_following
+-DCATKIN_DEVEL_PREFIX=/home/nmalaya/CPP/turtlebot/devel -DCMAKE_INSTALL_PREFIX=/home/nmalaya/CPP/turtlebot/install -G Unix Makefiles
