@@ -1,2 +1,2 @@
-wall_following
+turtlebot3/turtlebot3:turtlebot3/turtlebot3_bringup:turtlebot3/turtlebot3_description:turtlebot3/turtlebot3_example:turtlebot3/turtlebot3_navigation:turtlebot3/turtlebot3_slam:turtlebot3/turtlebot3_teleop:turtlebot3_msgs:wall_following:wander
 -DCATKIN_DEVEL_PREFIX=/home/nmalaya/CPP/turtlebot/devel -DCMAKE_INSTALL_PREFIX=/home/nmalaya/CPP/turtlebot/install -G Unix Makefiles
